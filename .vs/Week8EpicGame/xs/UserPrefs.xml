@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{CF483587-2D32-46DE-AD24-4A156AE75E13}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Week8EpicGame PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Week8EpicGame/Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="27" Column="54" />
+      <File FileName="Week8EpicGame/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

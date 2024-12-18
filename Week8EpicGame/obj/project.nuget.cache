@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+nZPyYi+ygrBF1hu8+ivhOFqj9Vt9ZZLjiR0g/2OQZ3y4ocuvq4PNhnEki25B/VT8gPIzt+GkZiAeG6fH6DY5g==",
+  "success": true,
+  "projectFilePath": "/Users/ellikutt/Desktop/2 Sügissemester/Programmeerimine/Week8EpicGame/Week8EpicGame/Week8EpicGame.csproj",
+  "expectedPackageFiles": [
+    "/Users/ellikutt/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/ellikutt/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/ellikutt/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
